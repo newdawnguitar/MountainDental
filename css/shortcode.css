@@ -2143,13 +2143,24 @@ footer .pbmit-social-links a:hover{
 }
 .pbmit-title-bar-wrapper {
     background-color: transparent;
-    background-image: url(../images/title-bg.jpg);
+    background-image: url(../images/ak/dentist-title-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     background-attachment: scroll;
     position: relative;
 }
+
+.pbmit-title-bar-wrapper-meet-the-team {
+    background-color: transparent;
+    background-image: url(../images/ak/meet-the-team-page.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    position: relative;
+}
+
 .pbmit-title-bar-content {
     position: relative;
     z-index: 1;
